@@ -33,9 +33,6 @@ def define(word=''):
         if len(word) > 0:
             meaning = dict.meaning(word)
             return meaning
-#             print(word.title() + ':\n')
-#             print(meaning)
-#             print('\n')
             
         if len(word) == 0:
             flag = 0
