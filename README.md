@@ -1,5 +1,5 @@
 # Command Line Dictionary
-A Simple Command Line Dictionary Application.
+A Basic Command Line Dictionary Application.
 ---------------
 SET UP:
 
@@ -11,11 +11,11 @@ SET UP:
 
 ---The batch file should look like this, except for the scripts path:
 
-python C:\PythonScripts\define.py %*
+*python C:\PythonScripts\define.py %**
 
 
 
-Very simple to use. Enter the name of the corresponding batch file, and the word you would like to define into the run command, then just hit enter.
+Simple to use. Just enter the name of the corresponding batch file and the word you would like to define into the run command, then hit enter.
 Example:
 ---------------------
 (Win + r) +
