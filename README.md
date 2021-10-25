@@ -1,6 +1,6 @@
-# define.py
+# Command Line Dictionary
 A Simple Command Line Dictionary Application.
-
+---------------
 SET UP:
 
 ---Create a batch file (just a simple text file ending in .bat) that calls python and points to the path of the script. 
@@ -15,11 +15,11 @@ python C:\PythonScripts\define.py %*
 
 
 
-Very simple to use. Enter the name of the corresponding batch file and the word you would like to define into the run command and just hit enter.
+Very simple to use. Enter the name of the corresponding batch file, and the word you would like to define into the run command, then just hit enter.
 Example:
-
+---------------------
 (Win + r) +
-(open: def simplicity) + 
+(Run: def simplicity) + 
 Enter: 
 
-![def](https://user-images.githubusercontent.com/59756431/138618341-70b72be0-1b23-4e12-bbaa-16c4eaf18fc9.png)
+![def](https://user-images.githubusercontent.com/59756431/138623162-a30caddd-e520-479d-85e6-607bdeae8770.png)
